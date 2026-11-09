@@ -1,0 +1,6 @@
+timestamp,src,dst,amount
+0,alice,bob,120
+1,bob,carol,85
+2,carol,dave,40
+3,dave,alice,25
+4,alice,carol,60

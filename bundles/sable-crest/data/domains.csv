@@ -1,0 +1,4 @@
+domain_id,description,samples
+D1,clean baseline,1200
+D2,sensor drift,900
+D3,adversarial noise,700

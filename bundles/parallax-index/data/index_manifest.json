@@ -1,0 +1,7 @@
+{
+  "index_version": "1.4.2",
+  "segments": [
+    {"min": 1.0, "max": 100.0, "size": 64},
+    {"min": 101.0, "max": 250.0, "size": 64}
+  ]
+}
